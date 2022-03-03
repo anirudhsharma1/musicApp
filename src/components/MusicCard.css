@@ -1,0 +1,11 @@
+.container{
+   margin:0 auto;
+   /* background-color: red; */
+   width: 80%;
+   height: 100px;
+}
+
+.music-content h3{
+padding-top: 50px;;
+
+}
